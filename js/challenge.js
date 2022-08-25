@@ -32,8 +32,6 @@ likesHeart.addEventListener('click', function(){
 })
 
 }
-timer()
-
 
 document.addEventListener('DOMContentLoaded', timer);
 
